@@ -1,13 +1,13 @@
 # Site settings
-title: Autuan's Blog
-SEOTitle: 晚成的博客 |  Autuan's Blog | Autuan | autuan
+title: Roter's Blog
+SEOTitle: 一杯愁的博客 |  Roter's Blog | Roter | roter
 header-img: img/post-bg-desk.jpg
-email: autuan.yu@gmail.com
+email: 15855106864@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 晚成的博客, autuan, 晚成, Java8, JS, Java"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, 一杯愁的博客, roter, 思念, Java8, JS, Java"
+url: "http://roter.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/RoterLong/roter.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    autuan
+github_username:    roter
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -74,11 +74,11 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 3c542d6816ebe64fccb68c23706c8fbc
+#ba_track_id: 3c542d6816ebe64fccb68c23706c8fbc
 
 # Google Analytics
-ga_track_id: 'G-SK5QP3DSKT'            # Format: UA-xxxxxx-xx
-ga_domain: autuan.cn              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'G-SK5QP3DSKT'            # Format: UA-xxxxxx-xx
+#ga_domain: autuan.cn              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
