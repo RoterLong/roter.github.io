@@ -11,7 +11,7 @@ github_repo: "https://github.com/RoterLong/roter.github.io" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "休息,再出发"
+sidebar-about-description: "关于你,是我最美好的时光。"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
